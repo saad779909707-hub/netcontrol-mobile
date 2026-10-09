@@ -1,0 +1,6 @@
+{
+  "name": "NetControl Mobile",
+  "description": "Android Network Manager & OpenWrt Controller inspired by SelfishNet for discovering devices, controlling traffic, bandwidth limiting with tc/SQM, and blocking via nftables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
